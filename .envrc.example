@@ -1,0 +1,7 @@
+export CSTRIKE_DIR=
+export CZERO_DIR=
+export MAP=
+export MAPCYCLE_TXT=
+export SERVER_CFG=
+
+use_nix
